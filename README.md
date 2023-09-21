@@ -1,4 +1,4 @@
-# COVID-19 Tracker
+# COVID-19 Case Tracker
 
 This full stack application provides real-time global statistics for COVID-19, sourcing data from Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). It runs React.js in front-end, Node.js in the back-end, and stores the data parsed from JHU CSSE in a MongoDB database.
 
